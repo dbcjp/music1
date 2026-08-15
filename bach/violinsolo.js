@@ -123,5 +123,5 @@ addData(
 "*Sonata No. 1 in G Minor|1. Adagio,@bwv1001-1_2. Fuga. Allegro,@bwv1001-2_3. Siciliana,@bwv1001-3_4. Presto,@bwv1001-4/*Partita No. 1 in B Minor|1. Allemande,@bwv1002-1_2. Double,@bwv1002-2_3. Corrente,@bwv1002-3_4. Double Presto,@bwv1002-4_5. Sarabande,@bwv1002-5_6. Double,@bwv1002-6_7. Tempo di bourrée,@bwv1002-7_8. Double,@bwv1002-8/*Sonata No. 2 in A Minor|1. Grave,@bwv1003-1_2. Fuga,@bwv1003-2_3. Andante,@bwv1003-3_4. Allegro,@bwv1003-4/*Partita No. 2 in D Minor|1. Allemande,@bwv1004-1_2. Courante,@bwv1004-2_3. Sarabande,@bwv1004-3_4. Gigue,@bwv1004-4_5. Chaconne,@bwv1004-5/*Sonata No. 3 in C Major|1. Adagio,@bwv1005-1_2. Fuga,@bwv1005-2_3. Largo,@bwv1005-3_4. Allegro assai,@bwv1005-4/*Partita No. 3 in E Major|1. Preludio,@bwv1006-1_2. Loure,@bwv1006-2_3. Gavotte en rondeau,@bwv1006-3_4. Menuet I:II,@bwv1006-4_6. Bourré,@bwv1006-6_7. Gigue,@bwv1006-7",
 "Christian Ferras*",
 "Ferras, Christian",
-"0,265_265,591_591,815_815/0,301_301,434_434,652_652,901_901,1150_1150,1271_1271,1493_1493/0,231_231,732_732,1045_1045/0,196_196,368_368,637_637,833_833/0,245_245,858_858,1082_1082/0,225_225,496_496,673_673,916_916,1014_1014"
+"0,265,591,815/0,301,434,652,901,1150,1271,1493/0,231,732,1045/0,196,368,637,833/0,245,858,1082/0,225,496,673,916,1014"
 );
