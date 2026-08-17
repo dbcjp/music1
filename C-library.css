@@ -46,13 +46,12 @@ flex-direction:column;
 #box2{
   /*order:2;*/
 }
-.choices{
- display:grid;
- grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
- gap:10px;
- margin-top:10px;
+.choices {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
 }
-
 .choice{
  font-size: clamp(14px, 3.5vw, 18px);
  border:1px solid #444;
