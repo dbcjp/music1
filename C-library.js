@@ -1,4 +1,4 @@
-[
+let library = [
   {
     id: 0,
     composer: "J.S. Bach",
@@ -13,4 +13,4 @@
     category: "chamber",
     title: "Cello Suites"
   }
-]
+];
