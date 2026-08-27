@@ -1,0 +1,16 @@
+[
+  {
+    id: 0,
+    composer: "J.S. Bach",
+    url: "bach/violinsolo.js",
+    category: "chamber",
+    title: "Sonatas and Partitas for Solo Violin"
+  },
+  {
+    id: 1,
+    composer: "J.S. Bach",
+    url: "bach/cellosuite.js",
+    category: "chamber",
+    title: "Cello Suites"
+  }
+]
