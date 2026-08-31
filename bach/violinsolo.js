@@ -600,3 +600,9 @@ addData(
 "Susanne Lautenbacher",
 "Lautenbacher, Susanne"
 );
+addData(
+"unZQumBMow0,XNYPzovVMrc,EQJoAfKzUjQ,d-a2Ds8nezQ,XI4dYtDvCeQ,lLXvMTh-pkc,xyu560G5qs8,_ttzzvVdDbk,LTfdnmVigxM,APZNsylUWos,CZ7SCKHQpJg,4suiooSz1vI,Adw-djqKCZs,J-vLZRcCgIk,kBVmqAYczw8,xLTgFJSSXuo,WUbqwHlPElQ,Gmja5LMOElQ,E47mx_2VZh0,8SeIVLlSBQU,t-PL7CkUP6o,PRhfeUN7_64,aIdMISbmFVo,kC-YLkyDxSU,y-UIJVXDIE8,C_Dy1qTQAJo,zbQV4u_AEcw,DaioQrJ9-Cw,vgSVZdPg3yI,YdL_U7g0SNE,8EdSOvWV8Eg,gl08YV4x2y0",
+"*Sonata No. 1 in G Minor|1. Adagio,@bwv1001-1/2. Fuga,@bwv1001-2/3. Siciliano,@bwv1001-3/4. Presto,@bwv1001-4/*Partita No. 1 in B Minor|1. Allemande,@bwv1002-1/2. Double,@bwv1002-2/3. Corrente,@bwv1002-3/4. Double,@bwv1002-4/5. Sarabanda,@bwv1002-5/6. Double,@bwv1002-6/7. Tempo di Bourree,@bwv1002-7/8. Double,@bwv1002-8/*Sonata No. 2 in A Minor|1. Grave,@bwv1003-1/2. Fuga,@bwv1003-2/3. Andante,@bwv1003-3/4. Allegro,@bwv1003-4/*Partita No. 2 in D Minor|1. Allemande,@bwv1004-1/2. Corrente,@bwv1004-2/3. Sarabande,@bwv1004-3/4. Giga,@bwv1004-4/5. Ciaccona,@bwv1004-5/*Sonata No. 3 in C Major|1. Adagio,@bwv1005-1/2. Fuga,@bwv1005-2/3. Largo,@bwv1005-3/4. Allegro assai,@bwv1005-4/*Partita No. 3 in E Major|1. Preludio,@bwv1006-1/2. Loure,@bwv1006-2/3. Gavotte en rondeau,@bwv1006-3/4. Menuet I,@bwv1006-4/5. Menuet II,@bwv1006-5/6. Bourree,@bwv1006-6/7. Gigue,@bwv1006-7",
+"Renaud Capuçon",
+"Capuçon, Renaud"
+);
