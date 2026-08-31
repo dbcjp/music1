@@ -606,3 +606,9 @@ addData(
 "Renaud Capuçon",
 "Capuçon, Renaud"
 );
+addData(
+"d18EkYC0FkA,VQVkZWDIOtA,gLMlSIIznlE,lqpbpwWEJIw,zE5aE_2OQDc,gzhBbGeZIC8,a6CO6f29FTE,WSFbozxQicY,Yu54Z3Pmmes,uL6FdDgqvS8,6skZfPYuv9k,zFsiJq-lCcE,rZM2wF3pNPg,8lzT5KW2Jb0,QtVRmZdiQnU,WhaAzoNmeIU,AatpsL1dfPQ,HkzUYZqAgdM,dZn4a_qhjzQ,ggV5hJAw6JM,gV5jvtaGdxg,8JN7HXX-KvU,xYRR2cs1Uto,UcibiugZzuc,hhVPJbQfNCk,UTLuXfp4rTQ,8A9HI4Cz4QY,-Mnhc6EQs8g,rAzl1ecBvOY,ZLtMXytLJyA,Sz09wZQvM-g",
+"*Sonata No. 1 in G Minor|1. Adagio,@bwv1001-1/2. Fuga,@bwv1001-2/3. Siciliano,@bwv1001-3/4. Presto,@bwv1001-4/*Partita No. 1 in B Minor|1. Allemande,@bwv1002-1/2. Double,@bwv1002-2/3. Corrente,@bwv1002-3/4. Double,@bwv1002-4/5. Sarabanda,@bwv1002-5/6. Double,@bwv1002-6/7. Tempo di Bourree,@bwv1002-7/8. Double,@bwv1002-8/*Sonata No. 2 in A Minor|1. Grave,@bwv1003-1/2. Fuga,@bwv1003-2/3. Andante,@bwv1003-3/4. Allegro,@bwv1003-4/*Partita No. 2 in D Minor|1. Allemande,@bwv1004-1/2. Corrente,@bwv1004-2/3. Sarabande,@bwv1004-3/4. Giga,@bwv1004-4/5. Ciaccona,@bwv1004-5/*Sonata No. 3 in C Major|1. Adagio,@bwv1005-1/2. Fuga,@bwv1005-2/3. Largo,@bwv1005-3/4. Allegro assai,@bwv1005-4/*Partita No. 3 in E Major|1. Preludio,@bwv1006-1/2. Loure,@bwv1006-2/3. Gavotte en rondeau,@bwv1006-3/4. Menuet I II,@bwv1006-4/6. Bourree,@bwv1006-6/7. Gigue,@bwv1006-7",
+"Mark Kaplan",
+"Kaplan, Mark"
+);
