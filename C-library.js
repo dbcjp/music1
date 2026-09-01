@@ -13,4 +13,11 @@ let library = [
     category: "chamber",
     title: "Cello Suites"
   }
+  {
+    id: 2,
+    composer: "J.S. Bach",
+    url: "bach/cantata/gardiner.js",
+    category: "cantata",
+    title: "Cantata / Gardiner"
+  }
 ];
