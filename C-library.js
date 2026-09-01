@@ -12,7 +12,7 @@ let library = [
     url: "bach/cellosuite.js",
     category: "chamber",
     title: "Cello Suites"
-  }
+  },
   {
     id: 2,
     composer: "J.S. Bach",
