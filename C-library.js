@@ -20,11 +20,4 @@ let library = [
     category: "cantata",
     title: "Cantata / Gardiner"
   },
-  {
-    id: 3,
-    composer: "J.S. Bach",
-    url: "bach/cantata/richter.js",
-    category: "cantata",
-    title: "Cantata / Richter"
-  }
 ];
