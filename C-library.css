@@ -67,7 +67,7 @@ button {
  font-size: clamp(13px, 3.5vw, 17px);
  border:1px solid #444;
  padding:5px;
- text-align:center;
+ /*text-align:center;*/
  background:floralwhite;/*#eef3ff;*/
  border-radius:6px;
  cursor:pointer;
