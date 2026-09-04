@@ -33,6 +33,12 @@ let library = [
     url: "bach/cantata/richter2.js",
     category: "cantata",
     title: "Cantata / Richter2"
+  },
+  {
+    id: 5,
+    composer: "Schubert",
+    url: "schubert/song-dieskau.js",
+    category: "song",
+    title: "Song Works / Dieskau, Janowitz"
   }
-  
 ];
