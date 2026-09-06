@@ -40,5 +40,12 @@ let library = [
     url: "schubert/song-dieskau.js",
     category: "song",
     title: "Song Works / Dieskau, Janowitz"
+  },
+  {
+    id: 6,
+    composer: "Mozart",
+    url: "mozart/pianosonata.js",
+    category: "piano",
+    title: "Piano Sonatas"
   }
 ];
