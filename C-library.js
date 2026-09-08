@@ -36,13 +36,20 @@ let library = [
   },
   {
     id: 5,
+    composer: "Schubert",
+    url: "schubert/song-dieskau2.js",
+    category: "song",
+    title: "Dieskau Schubert Songs"
+  },
+  {
+    id: 6,
     composer: "Mozart",
     url: "mozart/pianosonata.js",
     category: "piano",
     title: "Piano Sonatas"
   },
   {
-    id: 6,
+    id: 7,
     composer: "Brahms",
     url: "brahms/works.js",
     category: "work",
