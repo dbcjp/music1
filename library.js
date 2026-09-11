@@ -1,0 +1,65 @@
+let library = [
+  {
+    id: 0,
+    composer: "J.S. Bach",
+    url: "bach/violinsolo.js",
+    category: "chamber",
+    title: "Sonatas and Partitas for Solo Violin"
+  },
+  {
+    id: 1,
+    composer: "J.S. Bach",
+    url: "bach/cellosuite.js",
+    category: "chamber",
+    title: "Cello Suites"
+  },
+  {
+    id: 2,
+    composer: "J.S. Bach",
+    url: "bach/cantata/gardiner.js",
+    category: "cantata",
+    title: "Cantata / Gardiner"
+  },
+  {
+    id: 3,
+    composer: "J.S. Bach",
+    url: "bach/cantata/richter2.js",
+    category: "cantata",
+    title: "Cantata / Richter2"
+  },
+  {
+    id: 4,
+    composer: "J.S. Bach",
+    url: "bach/cantata/rilling.js",
+    category: "cantata",
+    title: "Cantata / Rilling"
+  },
+  {
+    id: 5,
+    composer: "Schubert",
+    url: "schubert/song-dieskau.js",
+    category: "song",
+    title: "Song Works / Dieskau, Janowitz"
+  },
+  {
+    id: 6,
+    composer: "Schubert",
+    url: "schubert/song-dieskau2.js",
+    category: "song",
+    title: "Dieskau Schubert Songs"
+  },
+  {
+    id: 7,
+    composer: "Mozart",
+    url: "mozart/pianosonata.js",
+    category: "piano",
+    title: "Piano Sonatas"
+  },
+  {
+    id: 8,
+    composer: "Brahms",
+    url: "brahms/works.js",
+    category: "work",
+    title: "Brahms Works"
+  }
+];
