@@ -36,6 +36,12 @@ let library = [
     title: "Cantata / Herreweghe"
   },
   {
+    composer: "J.S. Bach",
+    url: "bach/keyboard/gould.js",
+    category: "keyboard",
+    title: "Keyboard / Gould"
+  },
+  {
     composer: "Schubert",
     url: "schubert/song-dieskau.js",
     category: "song",
