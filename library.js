@@ -49,6 +49,12 @@ let library = [
   },
   {
     composer: "Schubert",
+    url: "schubert/winterreise.js",
+    category: "song",
+    title: "Winterreise"
+  },
+  {
+    composer: "Schubert",
     url: "schubert/song-dieskau2.js",
     category: "song",
     title: "Dieskau Schubert Songs"
