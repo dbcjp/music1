@@ -42,6 +42,12 @@ let library = [
     title: "Keyboard / Gould"
   },
   {
+    composer: "J.S. Bach",
+    url: "bach/keyboard/gilbert.js",
+    category: "keyboard",
+    title: "Keyboard / Gilbert"
+  },
+  {
     composer: "Schubert",
     url: "schubert/song-dieskau.js",
     category: "song",
