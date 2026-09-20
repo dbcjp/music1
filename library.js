@@ -63,7 +63,7 @@ let library = [
     composer: "J.S. Bach",
     url: "bach/organ/rubsam.js",
     category: "organ",
-    title: "Organ / rubsam"
+    title: "Organ / Rubsam"
   },
   {
     composer: "Schubert",
