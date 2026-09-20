@@ -60,6 +60,12 @@ let library = [
     title: "Keyboard / Schiff"
   },
   {
+    composer: "J.S. Bach",
+    url: "bach/organ/rubsam.js",
+    category: "organ",
+    title: "Organ / rubsam"
+  },
+  {
     composer: "Schubert",
     url: "schubert/song-dieskau.js",
     category: "song",
