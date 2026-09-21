@@ -40,3 +40,9 @@ addData(
 "Hans-Christoph Rademann · Gaechinger Cantorey vol.7",
 "Rademann, Hans-Christoph · Gaechinger Cantorey vol.7"
 );
+addData(
+"JGXCYjy1VRE,3-FaML5wE3E,SbsvXhba3jE,lByhh6h6PF4,bPkPaD1hiIU,uP74dtKZZag,sHoIxolS7nw,d1eIOu7iHoE,pgOyPFM9W8M,8ZqAj-UEj-g,-1qvJw2vF4w,ghht7eBC5gE,64hfwuvmCF0,klhUM81araE,lXfwO3rovGQ,TQJ5z-mEQJ8,n4YEfb3t2YU,q8iZMGqkKEw,_rNunc_OlKQ,pXKlcR_EW0s,yYCcibP9Ln0,_e87yilnMcA,AYzLVQzxv_I,keC4Mj88P-M,y4fTwzdR3_o,i5FcyHXlR-I,b_AY0hsSmVw,vq3vAIyWaGE,tHmnSYz5gTY,8Qae-2oQ8Ts,BZ8K2pnXSbI,kC9G1QZUQ2o",
+"*Jesus nahm zu sich die Zwölfe|BWV 22-1,@BWV22-1/BWV 22-2,@BWV22-2/BWV 22-3,@BWV22-3/BWV 22-4,@BWV22-4/BWV 22-5,@BWV22-5/*Du wahrer Gott und Davids Sohn|BWV 23.2-1,@BWV23.2-1/BWV 23.2-2,@BWV23.2-2/BWV 23.2-3,@BWV23.2-3/BWV 23.2-4,@BWV23.2-4/*Himmelskönig, sei willkommen|BWV 182-1,@BWV182-1/BWV 182-2,@BWV182-2/BWV 182-3,@BWV182-3/BWV 182-4,@BWV182-4/BWV 182-5,@BWV182-5/BWV 182-6,@BWV182-6/BWV 182-7,@BWV182-7/BWV 182-8,@BWV182-8/*Der Himmel lacht! die Erde jubiliert|BWV 31.2-1,@BWV31.2-1/BWV 31.2-2,@BWV31.2-2/BWV 31.2-3,@BWV31.2-3/BWV 31.2-4,@BWV31.2-4/BWV 31.2-5,@BWV31.2-5/BWV 31.2-6,@BWV31.2-6/BWV 31.2-7,@BWV31.2-7/BWV 31.2-8,@BWV31.2-8/BWV 31.2-9,@BWV31.2-9/*Erfreut euch, ihr Herzen|BWV 66.2-1,@BWV66.2-1/BWV 66.2-2,@BWV66.2-2/BWV 66.2-3,@BWV66.2-3/BWV 66.2-4,@BWV66.2-4/BWV 66.2-5,@BWV66.2-5/BWV 66.2-6,@BWV66.2-6",
+"Hans-Christoph Rademann · Gaechinger Cantorey vol.8",
+"Rademann, Hans-Christoph · Gaechinger Cantorey vol.8"
+);
