@@ -16,3 +16,9 @@ addData(
 "Hans-Christoph Rademann · Gaechinger Cantorey vol.3",
 "Rademann, Hans-Christoph · Gaechinger Cantorey vol.3"
 );
+addData(
+"SGgc5MwQB14,ZkPfTHml03U,73Plx2xVE6E,41ctcnhabIw,8qhCvp-yIDQ,MmM9DtPdl2Q,KqzdioRgsE4,b3JcBX51xxs,wT4HWMoXg6I,2kkIysZzPJQ,qe5c3Z-o8Es,hB2HG-Na6nM,T6ziRFh82gg,99JV7Dv737g,cmBA6Q6YpK8,0ScrfiEU2wI,ev2jrbTBLts,THj8u9-tG2k,N2IgO5fNVFU,Jh4LRXSeNXA,vAemQ990MC8,SykxCAjvPg0,W96mb7h_EdA,hVBK_5wf5C0,Txus4b4R1Gk,gU392P9ZeBc,ssvKsGxu7qY,QHQh2kwzM2c,orVcEIliSwM,oD_kCOjgI70,efgl_bSa474,wAFstsDOwe8,-yoeAoUgzAY,0R0r8r1P3fY,Bm75Q2-J5rk,bMYrzJaPtUo,DibP5V-5VSE,OAFRcRBUG_Y,_VLepaNsXv0,VEyS_DTymqQ,gee8uGgHwfM,d9FvVJO2ZVI,bvY8ey_vRq4,mGAmgC3qvxk",
+"*Warum betrübst du dich, mein Herz|BWV 138-1,@BWV138-1/BWV 138-2,@BWV138-2/BWV 138-4,@BWV138-4/BWV 138-5,@BWV138-5/BWV 138-6,@BWV138-6/BWV 138-7,@BWV138-7/*Christus, der ist mein Leben|BWV 95-1,@BWV95-1/BWV 95-2,@BWV95-2/BWV 95-3,@BWV95-3/BWV 95-4,@BWV95-4/BWV 95-5,@BWV95-5/BWV 95-6,@BWV95-6/BWV 95-7,@BWV95-7/*Ich elender Mensch, wer wird mich erlösen|BWV 48-1,@BWV48-1/BWV 48-2,@BWV48-2/BWV 48-3,@BWV48-3/BWV 48-4,@BWV48-4/BWV 48-5,@BWV48-5/BWV 48-6,@BWV48-6/BWV 48-7,@BWV48-7/*Ach! ich sehe, itzt, da ich zur Hochzeit gehe|BWV 162-1,@BWV162-1/BWV 162-2,@BWV162-2/BWV 162-3,@BWV162-3/BWV 162-4,@BWV162-4/BWV 162-5,@BWV162-5/BWV 162-6,@BWV162-6/*Ich glaube, lieber Herr|BWV 109-1,@BWV109-1/BWV 109-2,@BWV109-2/BWV 109-3,@BWV109-3/BWV 109-4,@BWV109-4/BWV 109-5,@BWV109-5/BWV 109-6,@BWV109-6/*Was soll ich aus dir machen, Ephraim|BWV 89-1,@BWV89-1/BWV 89-2,@BWV89-2/BWV 89-3,@BWV89-3/BWV 89-4,@BWV89-4/BWV 89-5,@BWV89-5/BWV 89-6,@BWV89-6/*Nur jedem das Seine|BWV 163-1,@BWV163-1/BWV 163-2,@BWV163-2/BWV 163-3,@BWV163-3/BWV 163-4,@BWV163-4/BWV 163-5,@BWV163-5/BWV 163-6,@BWV163-6",
+"Hans-Christoph Rademann · Gaechinger Cantorey vol.4",
+"Rademann, Hans-Christoph · Gaechinger Cantorey vol.4"
+);
