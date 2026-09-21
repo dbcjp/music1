@@ -46,3 +46,9 @@ addData(
 "Hans-Christoph Rademann · Gaechinger Cantorey vol.8",
 "Rademann, Hans-Christoph · Gaechinger Cantorey vol.8"
 );
+addData(
+"vERwkHMXzRM,mkb1fYRtAho,cdllDwl3ZRo,W3eFzkQk7cg,X0hjZHrDEa4,4XHH3Wzm7sM,JEdftKTEDaE,TQmc8YwrxJg,hjawzdd5oxk,KeqcKPWqtKQ,EPkyzmwtsg4,zLOoGl-L-_E,pUZaq3sQ8iY,v5y5ag6SxXA,uBZcuRRZe8Y,EwfnjBIFhUU,y0GssB7XBSk,l0KxR97z1AI,cGKSALK_Qiw,aIMmPQL88IA,nGlFLjJP-nY,WDzbQ-XrFWo,GZaBkiSeCWg,S683RUaOMcc,irDb-Xc97-Q,9mXHGhkg5gg,sL7n7bO-9v4,nUGslSFeo98,XeKbI5tj0hQ,YABGtWORsUc,pMpNeNuHeN8,RRZyCZbA4mc",
+"*Ein Herz, das seinen Jesum lebend weiß|BWV 134-1,@BWV134-1/BWV 134-2,@BWV134-2/BWV 134-3,@BWV134-3/BWV 134-4,@BWV134-4/BWV 134-5,@BWV134-5/BWV 134-6,@BWV134-6/*Halt im Gedächtnis Jesum Christ|BWV 67-1,@BWV67-1/BWV 67-2,@BWV67-2/BWV 67-3,@BWV67-3/BWV 67-4,@BWV67-4/BWV 67-5,@BWV67-5/BWV 67-6,@BWV67-6/BWV 67-7,@BWV67-7/*Du Hirte Israel, höre|BWV 104-1,@BWV104-1/BWV 104-2,@BWV104-2/BWV 104-3,@BWV104-3/BWV 104-4,@BWV104-4/BWV 104-5,@BWV104-5/BWV 104-6,@BWV104-6/*Weinen, Klagen, Sorgen, Zagen|BWV 12-1,@BWV12-1/BWV 12-2,@BWV12-2/BWV 12-3,@BWV12-3/BWV 12-4,@BWV12-4/BWV 12-5,@BWV12-5/BWV 12-6,@BWV12-6/BWV 12-7,@BWV12-7/*Wo gehest du hin|BWV 166-1,@BWV166-1/BWV 166-2,@BWV166-2/BWV 166-3,@BWV166-3/BWV 166-4,@BWV166-4/BWV 166-5,@BWV166-5/BWV 166-6,@BWV166-6",
+"Hans-Christoph Rademann · Gaechinger Cantorey vol.9",
+"Rademann, Hans-Christoph · Gaechinger Cantorey vol.9"
+);
