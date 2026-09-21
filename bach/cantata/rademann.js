@@ -52,3 +52,9 @@ addData(
 "Hans-Christoph Rademann · Gaechinger Cantorey vol.9",
 "Rademann, Hans-Christoph · Gaechinger Cantorey vol.9"
 );
+addData(
+"kj2lR-jMofg,NK7XE_As4eQ,OYTfKW-EC2A,WQOd8GVOcus,rzopmMchR4w,PgZK3AqfyGE,shVI9bnxGeY,QJLx7Ha3Ni4,LfUChUEoR6A,d6GfKPja3YY,aKocU8XWA5M,EF2jqSjGD1g,ZTrm43RAhrY,dRQV42qbf2k,k1-Cv4Ry8M0,Uw3rSaGC2xU,ejILhbtrC6g,PO3FE4_A0ww,I1Lqs-e0-Ok,Vab0ajVO0-M,4Su3ziJjdNo,HqPQMyQKK4U,4gxqBs3vnRE,HXpjYigy7_A,7dKX10xpDYI,mP3svWMCkoE,dT0TwvBkq6U,feA4Jp_rEFs,6YAXBl17q8s,ZGOkPwGHheE,vbYA15mlzZs,UnNlDBZunuI,F94JNGBP3-0,cPvBW8JIJpc,_AgMNgiS2SM,wTBSfFC2nXE,JdO7iSrFOU8,WAkR7hc_g5E,U0mmtXri7q4,MueRTXWYcy8,fCJk4nkfAsQ,rixbtF4x30M,1o4BIHApRVA",
+"*Wahrlich, wahrlich, ich sage euch|BWV 86-1,@BWV86-1/BWV 86-2,@BWV86-2/BWV 86-3,@BWV86-3/BWV 86-4,@BWV86-4/BWV 86-5,@BWV86-5/BWV 86-6,@BWV86-6/*Wer da gläubet und getauft wird|BWV 37-1,@BWV37-1/BWV 37-2,@BWV37-2/BWV 37-3,@BWV37-3/BWV 37-4,@BWV37-4/BWV 37-5,@BWV37-5/BWV 37-6,@BWV37-6/*Sie werden euch in den Bann tun|BWV 44-1,@BWV44-1/BWV 44-2,@BWV44-2/BWV 44-3,@BWV44-3/BWV 44-4,@BWV44-4/BWV 44-5,@BWV44-5/BWV 44-6,@BWV44-6/BWV 44-7,@BWV44-7/*Wer mich liebet, der wird mein Wort halten|BWV 59-1,@BWV59-1/BWV 59-2,@BWV59-2/BWV 59-3,@BWV59-3/BWV 59-4,@BWV59-4/BWV 59-5,@BWV59-5/*Erschallet, Ihr Lieder|BWV 172-1,@BWV172-1/BWV 172-2,@BWV172-2/BWV 172-3,@BWV172-3/BWV 172-4,@BWV172-4/BWV 172-5,@BWV172-5/BWV 172-6,@BWV172-6/BWV 172-7,@BWV172-7/*Erhöhtes Fleisch und Blut|BWV 173-1,@BWV173-1/BWV 173-2,@BWV173-2/BWV 173-3,@BWV173-3/BWV 173-4,@BWV173-4/BWV 173-5,@BWV173-5/BWV 173-6,@BWV173-6/*Erwünschtes Freudenlicht|BWV 184-1,@BWV184-1/BWV 184-2,@BWV184-2/BWV 184-3,@BWV184-3/BWV 184-4,@BWV184-4/BWV 184-5,@BWV184-5/BWV 184-6,@BWV184-6",
+"Hans-Christoph Rademann · Gaechinger Cantorey vol.10",
+"Rademann, Hans-Christoph · Gaechinger Cantorey vol.10"
+);
