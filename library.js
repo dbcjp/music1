@@ -102,6 +102,12 @@ let library = [
     title: "Piano Sonatas"
   },
   {
+    composer: "Mozart",
+    url: "mozart/violinsonata_edition8.js",
+    category: "chamber",
+    title: "Violin Sonatas Edition 8"
+  },
+  {
     composer: "Brahms",
     url: "brahms/works.js",
     category: "work",
