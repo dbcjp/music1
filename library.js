@@ -108,6 +108,12 @@ let library = [
     title: "Violin Sonatas Edition 8"
   },
   {
+    composer: "Dowland",
+    url: "dowland/lute/north.js",
+    category: "lute",
+    title: "Lute / North"
+  },
+  {
     composer: "Brahms",
     url: "brahms/works.js",
     category: "work",
