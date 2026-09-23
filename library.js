@@ -3,7 +3,7 @@ let library = [
     composer: "Bach (J.S.)",
     url: "bach/violinsolo.js",
     category: "chamber",
-    title: "Sonatas and Partitas for Solo Violin"
+    title: "Violin / Sonatas and Partitas for Solo Violin"
   },
   {
     composer: "Bach (J.S.)",
