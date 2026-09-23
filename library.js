@@ -1,78 +1,78 @@
 let library = [
   {
-    composer: "J.S. Bach",
+    composer: "Bach (J.S.)",
     url: "bach/violinsolo.js",
     category: "chamber",
     title: "Sonatas and Partitas for Solo Violin"
   },
   {
-    composer: "J.S. Bach",
+    composer: "Bach (J.S.)",
     url: "bach/cellosuite.js",
     category: "chamber",
     title: "Cello Suites"
   },
   {
-    composer: "J.S. Bach",
+    composer: "Bach (J.S.)",
     url: "bach/cantata/gardiner.js",
     category: "cantata",
     title: "Cantata / Gardiner"
   },
   {
-    composer: "J.S. Bach",
+    composer: "Bach (J.S.)",
     url: "bach/cantata/richter2.js",
     category: "cantata",
     title: "Cantata / Richter2"
   },
   {
-    composer: "J.S. Bach",
+    composer: "Bach (J.S.)",
     url: "bach/cantata/rilling.js",
     category: "cantata",
     title: "Cantata / Rilling"
   },
   {
-    composer: "J.S. Bach",
+    composer: "Bach (J.S.)",
     url: "bach/cantata/herreweghe.js",
     category: "cantata",
     title: "Cantata / Herreweghe"
   },
   {
-    composer: "J.S. Bach",
+    composer: "Bach (J.S.)",
     url: "bach/cantata/koopman.js",
     category: "cantata",
     title: "Cantata / Koopman"
   },
   {
-    composer: "J.S. Bach",
+    composer: "Bach (J.S.)",
     url: "bach/cantata/rademann.js",
     category: "cantata",
     title: "Cantata / Rademann"
   },
   {
-    composer: "J.S. Bach",
+    composer: "Bach (J.S.)",
     url: "bach/cantata/kuijken.js",
     category: "cantata",
     title: "Cantata / Kuijken"
   },
   {
-    composer: "J.S. Bach",
+    composer: "Bach (J.S.)",
     url: "bach/keyboard/gould.js",
     category: "keyboard",
     title: "Keyboard / Gould"
   },
   {
-    composer: "J.S. Bach",
+    composer: "Bach (J.S.)",
     url: "bach/keyboard/gilbert.js",
     category: "keyboard",
     title: "Keyboard / Gilbert"
   },
   {
-    composer: "J.S. Bach",
+    composer: "Bach (J.S.)",
     url: "bach/keyboard/schiff.js",
     category: "keyboard",
     title: "Keyboard / Schiff"
   },
   {
-    composer: "J.S. Bach",
+    composer: "Bach (J.S.)",
     url: "bach/organ/rubsam.js",
     category: "organ",
     title: "Organ / Rubsam"
