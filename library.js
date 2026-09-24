@@ -9,7 +9,7 @@ let library = [
     composer: "Bach (J.S.)",
     url: "bach/cellosuite.js",
     category: "chamber",
-    title: "Cello Suites"
+    title: "Cello / Cello Suites"
   },
   {
     composer: "Bach (J.S.)",
@@ -93,25 +93,25 @@ let library = [
     composer: "Schubert",
     url: "schubert/winterreise.js",
     category: "song",
-    title: "Winterreise"
+    title: "Song / Winterreise"
   },
   {
     composer: "Schubert",
     url: "schubert/song-dieskau2.js",
     category: "song",
-    title: "Dieskau Schubert Songs"
+    title: "Song / Dieskau Schubert Songs"
   },
   {
     composer: "Mozart",
     url: "mozart/pianosonata.js",
     category: "piano",
-    title: "Piano Sonatas"
+    title: "Piano / Piano Sonatas"
   },
   {
     composer: "Mozart",
     url: "mozart/violinsonata_edition8.js",
     category: "chamber",
-    title: "Violin Sonatas Edition 8"
+    title: "Violin / Violin Sonatas Edition 8"
   },
   {
     composer: "Dowland",
@@ -123,6 +123,6 @@ let library = [
     composer: "Brahms",
     url: "brahms/works.js",
     category: "work",
-    title: "Brahms Works"
+    title: "Works / Brahms Works"
   }
 ];
