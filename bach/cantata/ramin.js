@@ -1,7 +1,14 @@
 addData(
 "vct5YLuJ_6s,vct5YLuJ_6s,vct5YLuJ_6s",
 "*Schwingt freudig euch empor|(part1) BWV036-1,@BWV036-1_(part1) BWV036-2,@BWV036-2_(part1) BWV036-3,@BWV036-3_(part1) BWV036-4,@BWV036-4_(part2) BWV036-5,@BWV036-5_(part2) BWV036-6,@BWV036-6_(part2) BWV036-7,@BWV036-7_(part2) BWV036-8,@BWV036-8/*Selig ist der Mann|BWV057-1,@BWV057-1_BWV057-2,@BWV057-2_BWV057-3,@BWV057-3_BWV057-4,@BWV057-4_BWV057-5,@BWV057-5_BWV057-6,@BWV057-6_BWV057-7,@BWV057-7_BWV057-8,@BWV057-8/*Sie werden aus Saba alle kommen|BWV065-1,@BWV065-1_BWV065-2,@BWV065-2_BWV065-3,@BWV065-3_BWV065-4,@BWV065-4_BWV065-5,@BWV065-5_BWV065-6,@BWV065-6_BWV065-7,@BWV065-7",
-"ünther Ramin · Thomanerchor · Gewandhausorchester*",
-"Ramin, ünther · Thomanerchor · Gewandhausorchester*",
+"Günther Ramin · Thomanerchor · Gewandhausorchester vol.1*",
+"Ramin, Günther · Thomanerchor · Gewandhausorchester vol.1*",
 "0,283,609,832,944,1184,1347,1702_1760/1760,2026,2131,2453,2491,2836,2959,3229_3300/3300,3575,3620,3782,4013,4131,4382"
+);
+addData(
+"CP-ixyRGVwU,CP-ixyRGVwU,CP-ixyRGVwU",
+"*Jesu,nun sei gepreiset BWV041-1,@BWV041-1_BWV041-2,@BWV041-2_BWV041-3,@BWV041-3_BWV041-4,@BWV041-4_BWV041-5,@BWV041-5_BWV041-6,@BWV041-6/*Herr,wie du willt,so schicks mit mir BWV073-1,@BWV073-1_BWV073-2,@BWV073-2_BWV073-3,@BWV073-3_BWV073-4,@BWV073-4_BWV073-5,@BWV073-5/*Was mein Gott will,das g'scheh allzeit BWV111-1,@BWV111-1_BWV111-2,@BWV111-2_BWV111-3,@BWV111-3_BWV111-4,@BWV111-4_BWV111-5,@BWV111-5_BWV111-6,@BWV111-6",
+"Günther Ramin · Thomanerchor · Gewandhausorchester vol.2*",
+"Ramin, Günther · Thomanerchor · Gewandhausorchester vol.2*",
+"0,580,1093,1209,1699,1780_1960/1960,2293,2459,2506,2804_2900/2900,3220,3443,3523,3888,3973"
 );
