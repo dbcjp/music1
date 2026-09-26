@@ -47,3 +47,10 @@ addData(
 "Ramin, Günther · Thomanerchor · Gewandhausorchester vol.7*",
 "0,261,346,540,677,1083_1184/1184,1655,1906,2259,2472_2561/2561,2922,3001,3294,3385,3704,3744"
 );
+addData(
+"GDcxMjSM1js,GDcxMjSM1js,GDcxMjSM1js",
+"*Jauchzet Gott in allen Landen|BWV051-1,@BWV051-1_BWV051-2,@BWV051-2_BWV051-3,@BWV051-3_BWV051-4,@BWV051-4_BWV051-5,@BWV051-5/*Christus,der ist mein Leben|BWV095-1,@BWV095-1_BWV095-2,@BWV095-2_BWV095-4,@BWV095-4_BWV095-5,@BWV095-5_BWV095-6,@BWV095-6_BWV095-7,@BWV095-7/*Gott,der Herr,ist Sonn und Schild|BWV079-1,@BWV079-1_BWV079-2,@BWV079-2_BWV079-3,@BWV079-3_BWV079-4,@BWV079-4_BWV079-5,@BWV079-5_BWV079-6,@BWV079-6",
+"Günther Ramin · Thomanerchor · Gewandhausorchester vol.8*",
+"Ramin, Günther · Thomanerchor · Gewandhausorchester vol.8*",
+"0,315,469,751,1015_1197/1197,1599,1814,1860,2228,2330_2441/2441,2779,3016,3165,3252,3472"
+);
