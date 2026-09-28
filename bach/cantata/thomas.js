@@ -16,3 +16,9 @@ addData(
 "JefFrey Thomas · American Bach Soloists · American Bach Choir vol.3",
 "Thomas, JefFrey · American Bach Soloists · American Bach Choir vol.3"
 );
+addData(
+"fLij_YAmmBQ,mR1x_wOGCA8,YIUw94UgJA0,OtOwwKBSUWQ,sBMkbHGfcO4,HbdDIdG2uJA,PXohZwwnD-E,M_i162DxcOw,wUPpV3WrcGs,PW4YVchI7po,4nANABI3QkE,MfuO417v2_A,Abbm0BFeKQ0,_FLLi_6Hid8,BjaSSXEEI04,IRAbg_pO-aU,7rg9_4x2nZ4,c1lPzKcOxRk,uSnuPoklr94,NvHXZXb5cHI,NxaRJ6jCc0Q",
+"*Himmelskönig, sei willkommen|BWV182-1,@BWV182-1/BWV182-2,@BWV182-2/BWV182-3,@BWV182-3/BWV182-4,@BWV182-4/BWV182-5,@BWV182-5/BWV182-6,@BWV182-6/BWV182-7,@BWV182-7/BWV182-8,@BWV182-8/*Aus der Tiefen rufe ich, Herr, zu dir|BWV131-1,@BWV131-1/BWV131-2,@BWV131-2/BWV131-3,@BWV131-3/BWV131-4,@BWV131-4/BWV131-5,@BWV131-5/*Christ lag in Todes Banden|BWV4-1,@BWV4-1/BWV4-2,@BWV4-2/BWV4-3,@BWV4-3/BWV4-4,@BWV4-4/BWV4-5,@BWV4-5/BWV4-6,@BWV4-6/BWV4-7,@BWV4-7/BWV4-8,@BWV4-8",
+"JefFrey Thomas · American Bach Soloists · American Bach Choir vol.4",
+"Thomas, JefFrey · American Bach Soloists · American Bach Choir vol.4"
+);
