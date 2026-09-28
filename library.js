@@ -79,6 +79,12 @@ let library = [
   },
   {
     composer: "Bach (J.S.)",
+    url: "bach/cantata/milnes.js",
+    category: "cantata",
+    title: "Cantata / Milnes"
+  },
+  {
+    composer: "Bach (J.S.)",
     url: "bach/keyboard/gould.js",
     category: "keyboard",
     title: "Keyboard / Gould"
