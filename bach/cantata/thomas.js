@@ -28,3 +28,9 @@ addData(
 "JefFrey Thomas · American Bach Soloists · American Bach Choir vol.5",
 "Thomas, JefFrey · American Bach Soloists · American Bach Choir vol.5"
 );
+addData(
+"-yVvEyQjkls,V2lVwwN8B9A,eJlm27wyZSI,WerPQeyY2_w,I82rRDFLn0k,e5ymlsTBNvo,-6NUhJPYXTI,ZSLqUIiEt5k,2LoDOOfmbA4,ijXIOPjhVWA,ZkSsb80_kDc,Wze7Zt2OydM,VccTNQiC1vc,k7XZDUVNNXM,Ezy2l1Yrc5I,IpZwn-GqrS0,lBnWReuRQA4,mG6CZvT7sPU,ZkEJUjd0WDE,Gdg4b0OgjMU,5ftoce3zqSE,dRCRPzcLQBk",
+"*Wachet auf, ruft uns die Stimme|BWV140-1,@BWV140-1/BWV140-2,@BWV140-2/BWV140-3,@BWV140-3/BWV140-4,@BWV140-4/BWV140-5,@BWV140-5/BWV140-6,@BWV140-6/BWV140-7,@BWV140-7/*Jesu, der du meine Seele|BWV78-1,@BWV78-1/BWV78-2,@BWV78-2/BWV78-3,@BWV78-3/BWV78-4,@BWV78-4/BWV78-5,@BWV78-5/BWV78-6,@BWV78-6/BWV78-7,@BWV78-7/*Ein feste Burg ist unser Gott|BWV80-1,@BWV80-1/BWV80-2,@BWV80-2/BWV80-3,@BWV80-3/BWV80-4,@BWV80-4/BWV80-5,@BWV80-5/BWV80-6,@BWV80-6/BWV80-7,@BWV80-7/BWV80-8,@BWV80-8",
+"JefFrey Thomas · American Bach Soloists · American Bach Choir vol.6",
+"Thomas, JefFrey · American Bach Soloists · American Bach Choir vol.6"
+);
