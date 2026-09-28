@@ -10,3 +10,9 @@ addData(
 "JefFrey Thomas · American Bach Soloists · American Bach Choir vol.2",
 "Thomas, JefFrey · American Bach Soloists · American Bach Choir vol.2"
 );
+addData(
+"kBlHp3QdiZM,d2PVFPvgRgE,0Qlw_fRecq8,iNG3hYjwuOI,k5b12UKYyb0,wOTskYV-gpM,GaXxObA1D84,ca40gQ7XjhA,Ue2Z_R1ohwA,Dr14Uq3oshQ,nIlAlWjVbt4,_TPKnH9Y3SY,RADUIAYiWYE,NQue3FeW-AU,tNffDSe6GiE,U1j6-Ffa-lA",
+"*Gottes Zeit ist die allerbeste Zeit|BWV106-1,@BWV106-1/BWV106-2,@BWV106-2/BWV106-3,@BWV106-3/BWV106-4,@BWV106-4/*Tritt auf die Glaubensbahn|BWV152-1,@BWV152-1/BWV152-2,@BWV152-2/BWV152-3,@BWV152-3/BWV152-4,@BWV152-4/BWV152-5,@BWV152-5/BWV152-6,@BWV152-6/*Komm, du süße Todesstunde|BWV161-1,@BWV161-1/BWV161-2,@BWV161-2/BWV161-3,@BWV161-3/BWV161-4,@BWV161-4/BWV161-5,@BWV161-5/BWV161-6,@BWV161-6",
+"JefFrey Thomas · American Bach Soloists · American Bach Choir vol.3",
+"Thomas, JefFrey · American Bach Soloists · American Bach Choir vol.3"
+);
