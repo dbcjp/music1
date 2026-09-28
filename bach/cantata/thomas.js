@@ -22,3 +22,9 @@ addData(
 "JefFrey Thomas · American Bach Soloists · American Bach Choir vol.4",
 "Thomas, JefFrey · American Bach Soloists · American Bach Choir vol.4"
 );
+addData(
+"V4ykqNQkPQU,rWEsXLSgsD8,voOlINqU8Us,EKhhACLujTo,V-ryqaOi3wM,Rtplyro_Khg,NTSvnK-q4L4,Yo_5Zvea6-s,oRYWNIvb_XQ,xIsX75tsYi8,GmJuz4HfS_w,egrkiC_bGxc,WFvVHXdTeA8,ueh3VwoO61s,WwcbK0tsdig,A99e8JlxAH4,W_-USuLuAuc,r-o0SIvwybs",
+"*Gleichwie der Regen und Schnee vom Himmel fällt|BWV18-1,@BWV18-1/BWV18-2,@BWV18-2/BWV18-3,@BWV18-3/BWV18-4,@BWV18-4/BWV18-5,@BWV18-5/*Weinen, Klagen, Sorgen, Zagen|BWV12-1,@BWV12-1/BWV12-2,@BWV12-2/BWV12-3,@BWV12-3/BWV12-4,@BWV12-4/BWV12-5,@BWV12-5/BWV12-6,@BWV12-6/BWV12-7,@BWV12-7/*Nun komm, der Heiden Heiland|BWV61-1,@BWV61-1/BWV61-2,@BWV61-2/BWV61-3,@BWV61-3/BWV61-4,@BWV61-4/BWV61-5,@BWV61-5/BWV61-6,@BWV61-6",
+"JefFrey Thomas · American Bach Soloists · American Bach Choir vol.5",
+"Thomas, JefFrey · American Bach Soloists · American Bach Choir vol.5"
+);
