@@ -15,79 +15,85 @@ let library = [
     composer: "Bach (J.S.)",
     url: "bach/cantata/gardiner.js",
     category: "cantata",
-    title: "Cantata / Gardiner"
+    title: "Cantata / Gardiner · English Baroque Soloists"
   },
   {
     composer: "Bach (J.S.)",
     url: "bach/cantata/richter2.js",
     category: "cantata",
-    title: "Cantata / Richter2"
+    title: "Cantata / Richter · Münchener Bach-Orchester"
   },
   {
     composer: "Bach (J.S.)",
     url: "bach/cantata/rilling.js",
     category: "cantata",
-    title: "Cantata / Rilling"
+    title: "Cantata / Rilling · Stuttgart Bach Collegium,"
   },
   {
     composer: "Bach (J.S.)",
     url: "bach/cantata/herreweghe.js",
     category: "cantata",
-    title: "Cantata / Herreweghe"
+    title: "Cantata / Herreweghe · Collegium Vocale Gent"
   },
   {
     composer: "Bach (J.S.)",
     url: "bach/cantata/koopman.js",
     category: "cantata",
-    title: "Cantata / Koopman"
+    title: "Cantata / Koopman · Amsterdam Baroque Orchestra"
   },
   {
     composer: "Bach (J.S.)",
     url: "bach/cantata/rademann.js",
     category: "cantata",
-    title: "Cantata / Rademann"
+    title: "Cantata / Rademann · Gaechinger Cantorey"
   },
   {
     composer: "Bach (J.S.)",
     url: "bach/cantata/kuijken.js",
     category: "cantata",
-    title: "Cantata / Kuijken"
+    title: "Cantata / Kuijken · La Petite Bande"
   },
   {
     composer: "Bach (J.S.)",
     url: "bach/cantata/lutz.js",
     category: "cantata",
-    title: "Cantata / Lutz"
+    title: "Cantata / Lutz · Orchester der J.S. Bach-Stiftung"
   },
   {
     composer: "Bach (J.S.)",
     url: "bach/cantata/ramin.js",
     category: "cantata",
-    title: "Cantata / Ramin"
+    title: "Cantata / Ramin · Gewandhausorchester"
   },
   {
     composer: "Bach (J.S.)",
     url: "bach/cantata/werner.js",
     category: "cantata",
-    title: "Cantata / Werner"
+    title: "Cantata / Werner · Pforzheim Chamber Orchestra"
   },
   {
     composer: "Bach (J.S.)",
     url: "bach/cantata/thomas.js",
     category: "cantata",
-    title: "Cantata / Thomas"
+    title: "Cantata / Thomas · American Bach Soloists"
   },
   {
     composer: "Bach (J.S.)",
     url: "bach/cantata/milnes.js",
     category: "cantata",
-    title: "Cantata / Milnes"
+    title: "Cantata / Milnes · Montréal Baroque"
   },
   {
     composer: "Bach (J.S.)",
     url: "bach/cantata/leusink.js",
     category: "cantata",
-    title: "Cantata / Leusink"
+    title: "Cantata / Leusink · Netherlands Bach Collegium"
+  },
+  {
+    composer: "Bach (J.S.)",
+    url: "bach/cantata/harnoncourt.js",
+    category: "cantata",
+    title: "Cantata / Harnoncourt · Leonhardt"
   },
   {
     composer: "Bach (J.S.)",
