@@ -97,6 +97,12 @@ let library = [
   },
   {
     composer: "Bach (J.S.)",
+    url: "bach/cantata/winschermann.js",
+    category: "cantata",
+    title: "Cantata / Winschermann · Deutsche Bachsolisten"
+  },
+  {
+    composer: "Bach (J.S.)",
     url: "bach/keyboard/gould.js",
     category: "keyboard",
     title: "Keyboard / Gould"
