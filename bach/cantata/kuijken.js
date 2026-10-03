@@ -76,3 +76,9 @@ addData(
 "Sigiswald Kuijken · La Petite Bande Vol.13",
 "Kuijken, Sigiswald · La Petite Bande Vol.13"
 );
+addData(
+"T0iZB6beUgo,xlIGlyZOjMs,_a10vO_az38,YLAqj8i1VGI,Y9Xr8yNts6I,tNi3l_XEBC4,vf-Sp5qCyQs,QqRiOlhFL3k,exx5cs8xnD4,ZAgaIsg82OQ,driWs2wIUIM,c4lLDDhV7do,IBQ9CkeOZwA,mNyFJogXkZ4,8Mo1H0c6nFQ,WSYK1Gi5GLM,Fr3xkbC1FBw,LqLsmQzq-AQ,8NeNYvfwtGE,z3heULYx2WE,ok6SZwhCMgg,qhj3Mh1Um1g,tN2NBEfyFTQ,OGgo-Ur1jq4,deHYgq2yd28",
+"*Gelobet seist du, Jesu Christ|BWV91-1,@BWV91-1/BWV91-2,@BWV91-2/BWV91-3,@BWV91-3/BWV91-4,@BWV91-4/BWV91-5,@BWV91-5/BWV91-6,@BWV91-6/*Selig ist der Mann|BWV57-1,@BWV57-1/BWV57-2,@BWV57-2/BWV57-3,@BWV57-3/BWV57-4,@BWV57-4/BWV57-5,@BWV57-5/BWV57-6,@BWV57-6/BWV57-7,@BWV57-7/BWV57-8,@BWV57-8/*Süßer Trost, mein Jesus kömmt|BWV151-1,@BWV151-1/BWV151-2,@BWV151-2/BWV151-3,@BWV151-3/BWV151-4,@BWV151-4/BWV151-5,@BWV151-5/*Das neugeborne Kindelein|BWV122-1,@BWV122-1/BWV122-2,@BWV122-2/BWV122-3,@BWV122-3/BWV122-4,@BWV122-4/BWV122-5,@BWV122-5/BWV122-6,@BWV122-6",
+"Sigiswald Kuijken · La Petite Bande Vol.14",
+"Kuijken, Sigiswald · La Petite Bande Vol.14"
+);
