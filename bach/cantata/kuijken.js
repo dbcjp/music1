@@ -10,3 +10,9 @@ addData(
 "Sigiswald Kuijken · La Petite Bande Vol.2",
 "Kuijken, Sigiswald · La Petite Bande Vol.2"
 );
+addData(
+"9yL7nro4NH4,YzNQm-UWgoE,HXcJ9FtADo8,B0ayMY7gDOU,jd9TJxw1-vc,r-DHuHs2WqE,7vjQGeYQC0c,lRlZfWGkz3E,oLnHOz7wRBU,ks3JZPm7yQg,7UzwsxlVeQs,Ujalc7VKigA,bsGXMXzCJ7U,4exVj4rmfvM,WS5jsrUOY1A,RfwwNWUbSBc,xRxoln9W30o,DXkVF5c_5CI,DB9316e9qOg",
+"*Ich habe genug|BWV82-1: Aria,@BWV82-1/BWV82-2: Recitative,@BWV82-2/BWV82-3: Aria,@BWV82-3/BWV82-4: Recitative,@BWV82-4/BWV82-5: Aria,@BWV82-5/*Wo Gott der Herr nicht bei uns halt|BWV178-1: Chorus,@BWV178-1/BWV178-2: Recitative,@BWV178-2/BWV178-3: Aria,@BWV178-3/BWV178-4: Chorale,@BWV178-4/BWV178-5: Chorale,@BWV178-5/BWV178-6: Aria,@BWV178-6/BWV178-7: Chorale,@BWV178-7/*Herr, deine Augen sehen nach dem Glauben|BWV102-1: Part I: Chorale,@BWV102-1/BWV102-2: Part I: Recitative,@BWV102-2/BWV102-3: Part I: Aria,@BWV102-3/BWV102-4: Part I: Arioso,@BWV102-4/BWV102-5: Part II: Aria,@BWV102-5/BWV102-6: Part II: Recitative,@BWV102-6/BWV102-7: Part II: Chorale,@BWV102-7",
+"Sigiswald Kuijken · La Petite Bande Vol.3",
+"Kuijken, Sigiswald · La Petite Bande Vol.3"
+);
