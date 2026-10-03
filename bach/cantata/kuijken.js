@@ -22,3 +22,9 @@ addData(
 "Sigiswald Kuijken · La Petite Bande Vol.4",
 "Kuijken, Sigiswald · La Petite Bande Vol.4"
 );
+addData(
+"c09pW5pZ_Cw,ZeJIpFNJRt8,I-ME4EoI3Ns,Y75wHxjp5_I,skHiRRy9SNk,9VVW1FwZWKM,hbvmkckmMBA,E9oMs1-sSH8,-4j1__q2HAs,OdMT2TWwKz0,_hitMA9Rj8g,j1aerWVO-fc,YuZYwXnKtbY,M2DH1HSufPk,YMO9WKOVFPk,G-WpZ8YWMqc,cgfZoHTABsA,dJrE8zLJOtk,hZ7RsfAxyqM,KWeNMB2IRqg,OdvAcmyx_TI,-lPChUJoYlE,nITF0EgYWkk,ixTGPci_hIA,ttSk7z8V8uQ,0kT9e8ZjPbc",
+"*Siehe zu, dass deine Gottesfurcht nicht Heuchelei sei|BWV179-1: Chorus,@BWV179-1/BWV179-2: Recitatve,@BWV179-2/BWV179-3: Aria,@BWV179-3/BWV179-4: Recitative,@BWV179-4/BWV179-5: Aria,@BWV179-5/BWV179-6: Chorale,@BWV179-6/*Geist und Seele wird verwirret|BWV35-1: Part I: Sinfonia,@BWV35-1/BWV35-2: Part I: Aria,@BWV35-2/BWV35-3: Part I: Recitative,@BWV35-3/BWV35-4: Part I: Aria,@BWV35-4/BWV35-5: Part II: Sinfonia,@BWV35-5/BWV35-6: Part II: Recitative,@BWV35-6/BWV35-7: Part II: Aria,@BWV35-7/*Ihr, die ihr euch von Christo nennet|BWV164-1: Aria,@BWV164-1/BWV164-2: Recitative,@BWV164-2/BWV164-3: Aria,@BWV164-3/BWV164-4: Recitative,@BWV164-4/BWV164-5: Aria,@BWV164-5/BWV164-6: Chorale,@BWV164-6/*Wer Dank opfert, der preiset mich|BWV17-1: Part I: Chorus,@BWV17-1/BWV17-2: Part I: Recitative,@BWV17-2/BWV17-3: Part I: Aria,@BWV17-3/BWV17-4: Part II: Recitative,@BWV17-4/BWV17-5: Part II: Aria,@BWV17-5/BWV17-6: Part II: Recitative,@BWV17-6/BWV17-7: Part II: Chorale,@BWV17-7",
+"Sigiswald Kuijken · La Petite Bande Vol.5",
+"Kuijken, Sigiswald · La Petite Bande Vol.5"
+);
