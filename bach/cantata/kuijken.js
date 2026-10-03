@@ -40,3 +40,9 @@ addData(
 "Sigiswald Kuijken · La Petite Bande Vol.7",
 "Kuijken, Sigiswald · La Petite Bande Vol.7"
 );
+addData(
+"YsRg8R-QBmc,MGSTlL0tjmk,ZUXcAWE5WEw,BYHjHSsbArs,VgRYJe2yaiY,7iHhKIJP0-g,YPfsQhFlUMU,dK6AXSq5Yd0,zu4HK0Zsb0I,S9ew_mSJDbA,btNdSoP0kGc,kCAumaRMLFA,VMLRYBS4Vvw,6dIrFFimjuo,nJIoTDrA1d8,e8uC9EB6Hq0,001me1HmJg8,4z4_xdbatPk,NVbNYsc6GXc,y_vfwl1uEr8,cNTL8U4q5UQ,NUd9g1Oficc,mzwGbyAkYig,3hNP4PI_5Mc",
+"*Meine Seufzer, meine Tränen|BWV13-1: Aria,@BWV13-1/BWV13-2: Recitative,@BWV13-2/BWV13-3: Chorale,@BWV13-3/BWV13-4: Recitative,@BWV13-4/BWV13-5: Aria,@BWV13-5/BWV13-6: Chorale,@BWV13-6/*Herr, wie du willt, so schick's mit mir|BWV73-1: Recitative,@BWV73-1/BWV73-2: Aria,@BWV73-2/BWV73-3: Recitative,@BWV73-3/BWV73-4: Aria,@BWV73-4/BWV73-5: Chorale,@BWV73-5/*Jesus schläft, was soll ich hoffen|BWV81-1: Aria,@BWV81-1/BWV81-2: Recitative,@BWV81-2/BWV81-3: Aria,@BWV81-3/BWV81-4: Arioso,@BWV81-4/BWV81-5: Aria,@BWV81-5/BWV81-6: Recitative,@BWV81-6/BWV81-7: Chorale,@BWV81-7/*Nimm was dein ist, und gehe hin|BWV144-1: Chorus,@BWV144-1/BWV144-2: Aria,@BWV144-2/BWV144-3: Chorale,@BWV144-3/BWV144-4: Recitative,@BWV144-4/BWV144-5: Aria,@BWV144-5/BWV144-6: Chorale,@BWV144-6",
+"Sigiswald Kuijken · La Petite Bande Vol.8",
+"Kuijken, Sigiswald · La Petite Bande Vol.8"
+);
