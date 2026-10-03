@@ -28,3 +28,9 @@ addData(
 "Sigiswald Kuijken · La Petite Bande Vol.5",
 "Kuijken, Sigiswald · La Petite Bande Vol.5"
 );
+addData(
+"mFvXmUIgBi,v7cUbk8h16,bJNeqHhq6a,5X7IAAbsuI,Ip1YULJezw,Z2VjPqwfdb,qxQVOwY_C3,kRwyKCfI8g,0xIHhsI95-,nC-P9o5zKr,5YLIxm6NVT,BSdP5xJUPY,WWdmriXHJf,2uHR61mh4c,73FONLjN5A",
+"*Gleichwie der Regen und Schnee vom Himmel fällt|BWV18-1: Sinfonia,@BWV18-1/BWV18-2: Recitative,@BWV18-2/BWV18-3: Chorale,@BWV18-3/BWV18-4: Aria,@BWV18-4/BWV18-5: Chorale,@BWV18-5/*Du wahrer Gott und Davids Sohn|BWV23-1: Duet,@BWV23-1/BWV23-2: Recitative,@BWV23-2/BWV23-3: Aller,@BWV23-3/BWV23-4: Chorale,@BWV23-4/*Wie schön leuchtet der Morgenstern|BWV1-1: Wie,@BWV1-1/BWV1-2: Recitative,@BWV1-2/BWV1-3: Aria,@BWV1-3/BWV1-4: Recitative,@BWV1-4/BWV1-5: Aria,@BWV1-5/BWV1-6: Chorale,@BWV1-6",
+"Sigiswald Kuijken · La Petite Bande Vol.6",
+"Kuijken, Sigiswald · La Petite Bande Vol.6"
+);
