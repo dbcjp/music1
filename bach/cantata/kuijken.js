@@ -16,3 +16,9 @@ addData(
 "Sigiswald Kuijken · La Petite Bande Vol.3",
 "Kuijken, Sigiswald · La Petite Bande Vol.3"
 );
+addData(
+"-HSvE3urd4Q,tN98cibaaG4,U_OeORdpIUY,cjxcsWjtQ6s,ANdV_RUBxgE,m0nTWxUTx8k,5czl2aQFK8A,4GEAMdtBVx8,grotYNvnwtM,lDmGH81HjqI,Xt5m9wpC6Fo,RwQi9ZRaAYE,jOdN2Ds8OkE,lTIURC4xjgg,2_sNx4Ey1Es,JkjB9aIBSCc,0nHVQ3AF6lw,sFCDTMrJXH4,fBSqhn7EeeU,Tm3kQ909oZE,sGOufdSbUtE,uN-TBNgk4Ng,EGetlb3mCVM,QTo0q_jcc_w,cPuu2P472VE,XGj6aB2Y3GI,PQUQTXqyFv4,L-7Vqm0fTZQ,sfxTM7iSHZA,JQr5Lec44dc",
+"*Herr Gott, dich loben wir|BWV16-1: Chorus,@BWV16-1/BWV16-2: Recitative,@BWV16-2/BWV16-3: Aria,@BWV16-3/BWV16-4: Recitative,@BWV16-4/BWV16-5: Aria,@BWV16-5/BWV16-6: Chorale,@BWV16-6/*Schau, lieber Gott, wie meine Feind|BWV153-1: Chorale,@BWV153-1/BWV153-2: Recitative,@BWV153-2/BWV153-3: Arioso,@BWV153-3/BWV153-4: Recitative,@BWV153-4/BWV153-5: Chorale,@BWV153-5/BWV153-6: Aria,@BWV153-6/BWV153-7: Recitative,@BWV153-7/BWV153-8: Aria,@BWV153-8/BWV153-9: Chorale,@BWV153-9/*Sie werden aus Saba alle kommen|BWV65-1: Chorus,@BWV65-1/BWV65-2: Chorale,@BWV65-2/BWV65-3: Recitative,@BWV65-3/BWV65-4: Aria,@BWV65-4/BWV65-5: Recitative,@BWV65-5/BWV65-6: Aria,@BWV65-6/BWV65-7: Chorale,@BWV65-7/*Mein liebster Jesus ist verloren|BWV154-1: Aria,@BWV154-1/BWV154-2: Recitative,@BWV154-2/BWV154-3: Chorale,@BWV154-3/BWV154-4: Aria,@BWV154-4/BWV154-5: Arioso,@BWV154-5/BWV154-6: Recitative,@BWV154-6/BWV154-7: Aria,@BWV154-7/BWV154-8: Chorale,@BWV154-8",
+"Sigiswald Kuijken · La Petite Bande Vol.4",
+"Kuijken, Sigiswald · La Petite Bande Vol.4"
+);
