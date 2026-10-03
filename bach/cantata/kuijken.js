@@ -82,3 +82,9 @@ addData(
 "Sigiswald Kuijken · La Petite Bande Vol.14",
 "Kuijken, Sigiswald · La Petite Bande Vol.14"
 );
+addData(
+"eV_gSBP1voA,BfCnGTnWDzU,SQ-FGTYNkMI,gTLEXbpkryA,MimVzEhQ8Hs,5TNuIIlMzyw,iFwV_qUh7sk,1079-GdHs0k,tOiCpD8IaIw,kvaKWDSFHbU,qmmtmGeddso,PYRowxrPofM,siQx8bSgKMc,AckVXwXxgCM,AcbfX7I6PPc,k9qTtEaJpg8,9qLU8HHfClQ,AuvR0Tl0FJ0,bWJCilqbeqs,lwAJzx8cgNU,N6ChNaQnWIY,DwYqlhkT1rw,D9tQA_q8Gcw,6_3J6fwIWKs,z8NwgNd9buU,hf95pG_KLz4",
+"*Wachet! Betet! Betet! Wachet!|BWV70-1: Chorus,@BWV70-1/BWV70-2: Recitative,@BWV70-2/BWV70-3: Aria,@BWV70-3/BWV70-4: Recitative,@BWV70-4/BWV70-5: Aria,@BWV70-5/BWV70-6: Recitative,@BWV70-6/BWV70-7: Chorale,@BWV70-7/BWV70-8: Aria,@BWV70-8/BWV70-9: Recitative,@BWV70-9/BWV70-10: Aria,@BWV70-10/BWV70-11: Chorale,@BWV70-11/*Es ist das Heil uns kommen her|BWV9-1: Chorus,@BWV9-1/BWV9-2: Recitative,@BWV9-2/BWV9-3: Aria,@BWV9-3/BWV9-4: Recitative,@BWV9-4/BWV9-5: Duet,@BWV9-5/BWV9-6: Recitative,@BWV9-6/BWV9-7: Chorale,@BWV9-7/*Himmelskönig, sei willkommen|BWV182-1: Sonata,@BWV182-1/BWV182-2: Chorus,@BWV182-2/BWV182-3: Recitative,@BWV182-3/BWV182-4: Aria,@BWV182-4/BWV182-5: Aria,@BWV182-5/BWV182-6: Aria,@BWV182-6/BWV182-7: Chorale,@BWV182-7/BWV182-8: Chorus,@BWV182-8",
+"Sigiswald Kuijken · La Petite Bande Vol.18",
+"Kuijken, Sigiswald · La Petite Bande Vol.18"
+);
