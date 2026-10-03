@@ -70,3 +70,9 @@ addData(
 "Sigiswald Kuijken · La Petite Bande Vol.12",
 "Kuijken, Sigiswald · La Petite Bande Vol.12"
 );
+addData(
+"JhdG8FJxLpw,w-hf4GahLhc,bjU8L8Hby78,6OORrtn8M_0,X891_TwSU0o,nV20dWH72xI,20OBvTl1M6Q,KfEgw6sZa0E,dPIbJjb9Er8,zlZGmFny3_U,0peQ_yEqBjA,osf6bJ2twxk,eW2nIZRmiLs,NWKa8hQQMdQ,v5x6btMCqwc,EUyCqq2Evlo,CcZ5Q_Thfrs",
+"*Oster-Oratorium|BWV249-1: Sinfonia,@BWV249-1/BWV249-2: Adagio,@BWV249-2/BWV249-3: Chorus,@BWV249-3/BWV249-4: Recitative,@BWV249-4/BWV249-5: Aria,@BWV249-5/BWV249-6: Recitative,@BWV249-6/BWV249-7: Aria,@BWV249-7/BWV249-8: Recitative,@BWV249-8/BWV249-9: Aria,@BWV249-9/BWV249-10: Recitative,@BWV249-10/BWV249-11: Chorus,@BWV249-11/*Bleib bei uns, denn es will Abend werden|BWV6-1: Chorus,@BWV6-1/BWV6-2: Aria,@BWV6-2/BWV6-3: Chorale,@BWV6-3/BWV6-4: Recitative,@BWV6-4/BWV6-5: Aria,@BWV6-5/BWV6-6: Chorale,@BWV6-6",
+"Sigiswald Kuijken · La Petite Bande Vol.13",
+"Kuijken, Sigiswald · La Petite Bande Vol.13"
+);
