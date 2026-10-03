@@ -52,3 +52,9 @@ addData(
 "Sigiswald Kuijken · La Petite Bande Vol.9",
 "Kuijken, Sigiswald · La Petite Bande Vol.9"
 );
+addData(
+"UTo9bbBtO_s,8UaP5Ssxqes,VT8illuu9D4,XfvO8mnVMtM,qgcHgzZoZTk,Qx5WVtntSLE,wG1mYFB72Kw,lEv_jIgvnp0,4ea4vR4HOoU,t5AVEg92QC0,DMpWGLJQF_A,rvwBCclnJl0,SInF-cUIhX0,VQ8jSYd4J44,hZS99MdJRos,M-fP5UM0Myk,cUo7OApHeuM,xHbe9D_XNNQ,W1kk37sVHMo,ciicACkxYCc,s9A-dyHx2h8,PVatNEuwyC8,wSHil4uPXhU,pAXqyd33FJQ,mlO0FQxbpc4,5GFathCMlXY,ByvrcZkqc7g,EBQwjKZcF1M,NX_3XpBvnq0,hUlU2mqq170",
+"*Es ist euch gut, dass ich hingehe|BWV108-1: Aria,@BWV108-1/BWV108-2: Aria,@BWV108-2/BWV108-3: Recitative,@BWV108-3/BWV108-4: Wenn,@BWV108-4/BWV108-5: Aria,@BWV108-5/BWV108-6: Chorale,@BWV108-6/*Wahrlich, wahrlich, ich sage euch|BWV86-1: Aria,@BWV86-1/BWV86-2: Aria,@BWV86-2/BWV86-3: Chorale,@BWV86-3/BWV86-4: Recitative,@BWV86-4/BWV86-5: Aria,@BWV86-5/BWV86-6: Chorale,@BWV86-6/*Lobet Gott in seinen Reichen (Himmelfahrtsoratorium)|BWV11-1: Chorus,@BWV11-1/BWV11-2: Recitative,@BWV11-2/BWV11-3: Recitative,@BWV11-3/BWV11-4: Aria,@BWV11-4/BWV11-5: Recitative,@BWV11-5/BWV11-6: Chorale,@BWV11-6/BWV11-7: Recitative,@BWV11-7/BWV11-8: Recitative,@BWV11-8/BWV11-9: Recitative,@BWV11-9/BWV11-10: Aria,@BWV11-10/BWV11-11: Chorale,@BWV11-11/*Sie werden euch in den Bann tun|BWV44-1: Aria,@BWV44-1/BWV44-2: Es,@BWV44-2/BWV44-3: Aria,@BWV44-3/BWV44-4: Chorale,@BWV44-4/BWV44-5: Recitative,@BWV44-5/BWV44-6: Aria,@BWV44-6/BWV44-7: Chorale,@BWV44-7",
+"Sigiswald Kuijken · La Petite Bande Vol.10",
+"Kuijken, Sigiswald · La Petite Bande Vol.10"
+);
