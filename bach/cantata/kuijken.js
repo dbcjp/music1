@@ -34,3 +34,9 @@ addData(
 "Sigiswald Kuijken · La Petite Bande Vol.6",
 "Kuijken, Sigiswald · La Petite Bande Vol.6"
 );
+addData(
+"htGYd7lNgNs,Ge49rfFuPr0,-TLvdD_1FR8,4SS9N_Dsf_U,j2iwtl-e7CQ,oNRmEEmsyrQ,pTmQAkgiQjU,tw_PEQa4HVQ,cILs5_SXUoY,YND-GhqUqDs,pUudJAOuiek,ZV66hImjRe8,5pJawt0Mpkc,ES7ClPUEaQ4,liUTC-ABGjc,Q63DuUZ6Fbo,gYayQVgiPDg,EL98eiWS19s,i6TNyoCK-Ww,WuUviIOUock,WBrvkm-L7L0,c_TRQ9UHdnY,k1e03RHNkbk,ubbdpytUKqg",
+"*O Ewigkeit, du Donnerwort|BWV20-1: Part I: Chorale,@BWV20-1/BWV20-2: Part I: Recitative,@BWV20-2/BWV20-3: Part I: Aria,@BWV20-3/BWV20-4: Part I: Recitative,@BWV20-4/BWV20-5: Part I: Aria,@BWV20-5/BWV20-6: Part I: Aria,@BWV20-6/BWV20-7: Part I: Chorale,@BWV20-7/BWV20-8: Part II: Aria,@BWV20-8/BWV20-9: Part II: Recitative,@BWV20-9/BWV20-10: Part II: Duet,@BWV20-10/BWV20-11: Part II: Chorale,@BWV20-11/*Ach Gott, vom Himmel sieh darein|BWV2-1: Chorale,@BWV2-1/BWV2-2: Recitative,@BWV2-2/BWV2-3: Aria,@BWV2-3/BWV2-4: Recitative,@BWV2-4/BWV2-5: Aria,@BWV2-5/BWV2-6: Chorale,@BWV2-6/*Meine Seel erhebt den Herren|BWV10-1: Chorus,@BWV10-1/BWV10-2: Aria,@BWV10-2/BWV10-3: Recitative,@BWV10-3/BWV10-4: Aria,@BWV10-4/BWV10-5: Duet,@BWV10-5/BWV10-6: Recitative,@BWV10-6/BWV10-7: Chorale,@BWV10-7",
+"Sigiswald Kuijken · La Petite Bande Vol.7",
+"Kuijken, Sigiswald · La Petite Bande Vol.7"
+);
