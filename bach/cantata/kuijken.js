@@ -4,3 +4,9 @@ addData(
 "Sigiswald Kuijken · La Petite Bande Vol.1",
 "Kuijken, Sigiswald · La Petite Bande Vol.1"
 );
+addData(
+"nxuGXtwmGLA,asiTgkDFGZo,OXiDgvnAamg,sqEQA2K8fyg,FGYsFfAdnkM,KFGcnDfzlRA,hok11jkDfGA,H031xEHbLmc,__70pGYKs8o,Mp6CQmGrlCo,k2lrCowg0Ww,sSGMyAuuw1o,AUB15YvreTA,nn2ZK74A5nc,YMxXiwf4DTE,a8aJ57oH8sQ,rzi2VTGwFtc,Pt0VGBjCCrc",
+"*Ich ruf zu dir, Herr Jesu Christ|BWV177-1: Chorus,@BWV177-1/BWV177-2: Aria,@BWV177-2/BWV177-3: Aria,@BWV177-3/BWV177-4: Aria,@BWV177-4/BWV177-5: Chorale,@BWV177-5/*Wer nur den lieben Gott lasst walten|BWV93-1: Chorus,@BWV93-1/BWV93-2: Recitative,@BWV93-2/BWV93-3: Aria,@BWV93-3/BWV93-4: Aria,@BWV93-4/BWV93-5: Recitative,@BWV93-5/BWV93-6: Aria,@BWV93-6/BWV93-7: Chorale,@BWV93-7/*Ach Herr, mich armen Sunder|BWV135-1: Chorus,@BWV135-1/BWV135-2: Recitative,@BWV135-2/BWV135-3: Aria,@BWV135-3/BWV135-4: Recitative,@BWV135-4/BWV135-5: Aria,@BWV135-5/BWV135-6: Chorale,@BWV135-6",
+"Sigiswald Kuijken · La Petite Bande Vol.2",
+"Kuijken, Sigiswald · La Petite Bande Vol.2"
+);
