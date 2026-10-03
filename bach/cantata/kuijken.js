@@ -58,3 +58,9 @@ addData(
 "Sigiswald Kuijken · La Petite Bande Vol.10",
 "Kuijken, Sigiswald · La Petite Bande Vol.10"
 );
+addData(
+"3r5U0LYGgqs,jIj80esLEls,tmzCOOMoBtY,oK0YJ0g0ItA,fM_KWO6sWto,CjGOqKsZxDc,GDTULvajp0s,AUYLueIWbfk,pygdrwNU4lk,pVqbxSZ8BNk,KAcS1RBiC1Q,fSz1P4LYeCM,2sO-bcNsk2E,fJKF0Y4rA1A,KGhFsNSairo,-7FShh_GxqY,qHa1h7pYBrg,GeC7sbikqeM,RpF4zI6MHyg,jZ4XqgN6n3Y",
+"*Halt im Gedächtnis Jesum Christ|BWV67-1: Chorus,@BWV67-1/WV67-2: Aria,@BWV67-2/WV67-3: Recitative,@BWV67-3/WV67-4: Chorale,@BWV67-4/WV67-5: Recitative,@BWV67-5/WV67-6: Aria,@BWV67-6/WV67-7: Chorale,@BWV67-7/*Ich bin ein guter Hirt|BWV85-1: Aria,@BWV85-1/WV85-2: Aria,@BWV85-2/WV85-3: Chorale,@BWV85-3/WV85-4: Recitative,@BWV85-4/WV85-5: Aria,@BWV85-5/WV85-6: Chorale,@BWV85-6/*Weinen, Klagen, Sorgen, Zagen|BWV12-1: Sinfonia,@BWV12-1/WV12-2: Chorus,@BWV12-2/WV12-3: Recitative,@BWV12-3/WV12-4: Aria,@BWV12-4/WV12-5: Aria,@BWV12-5/WV12-6: Aria,@BWV12-6/WV12-7: Chorale,@BWV12-7",
+"Sigiswald Kuijken · La Petite Bande Vol.11",
+"Kuijken, Sigiswald · La Petite Bande Vol.11"
+);
