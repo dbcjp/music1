@@ -64,3 +64,9 @@ addData(
 "Sigiswald Kuijken · La Petite Bande Vol.11",
 "Kuijken, Sigiswald · La Petite Bande Vol.11"
 );
+addData(
+"MrWVGev0e_U,gPNXZYFjQto,T8MWstAYij4,zBLYK1SHGBQ,u7zftRu2ZB0,YNaUZBr5hTg,6oyyDby72T0,hC1q960TLMM,2E3uhXp5ikg,P5flpiM0JVI,voirpiy24A4,w8XoUOFex48,MLGrjyAAgxo,wT17VM61ims,fYj7Luptch8,THmuUEgcBRk,Fq0SMe9XcrY,GwII1vWZ0Ao,581lKpr_IV0,ZK3Fdvjxv0o,zgL07sFStXw,ftO5RDsOjqk,7xNuQddrssg",
+"*Wer weiss, wie nahe mir mein Ende!|BWV27-1: Chorale,@BWV27-1/BWV27-2: Recitative,@BWV27-2/BWV27-3: Aria,@BWV27-3/BWV27-4: Recitative,@BWV27-4/BWV27-5: Aria,@BWV27-5/BWV27-6: Chorale,@BWV27-6/*Wer sich selbst erhöhet, der soll erniedriget werden|BWV47-1: Chorale,@BWV47-1/BWV47-2: Aria,@BWV47-2/BWV47-3: Recitative,@BWV47-3/BWV47-4: Aria,@BWV47-4/BWV47-5: Chorale,@BWV47-5/*Warum betrübst du dich, mein Herz|BWV138-1: Chorale,@BWV138-1/BWV138-2: Recitative,@BWV138-2/BWV138-3: Recitative,@BWV138-3/BWV138-4: Aria,@BWV138-4/BWV138-5: Recitative,@BWV138-5/BWV138-6: Chorale,@BWV138-6/*Herr Christ, der einige Gottessohn|BWV96-1: Chorus,@BWV96-1/BWV96-2: Recitative,@BWV96-2/BWV96-3: Aria,@BWV96-3/BWV96-4: Recitative,@BWV96-4/BWV96-5: Aria,@BWV96-5/BWV96-6: Chorale,@BWV96-6",
+"Sigiswald Kuijken · La Petite Bande Vol.12",
+"Kuijken, Sigiswald · La Petite Bande Vol.12"
+);
