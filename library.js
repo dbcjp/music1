@@ -103,6 +103,12 @@ let library = [
   },
   {
     composer: "Bach (J.S.)",
+    url: "bach/cantata/rifkin.js",
+    category: "cantata",
+    title: "Cantata / Rifken · The Bach Ensemble"
+  },
+  {
+    composer: "Bach (J.S.)",
     url: "bach/keyboard/gould.js",
     category: "keyboard",
     title: "Keyboard / Gould"
