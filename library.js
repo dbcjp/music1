@@ -172,5 +172,11 @@ let library = [
     url: "brahms/works.js",
     category: "work",
     title: "Works / Brahms Works"
+  },
+  {
+    composer: "Ravel",
+    url: "ravel/sheherazade.js",
+    category: "song",
+    title: "Song / Sheherazade"
   }
 ];
