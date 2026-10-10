@@ -184,5 +184,11 @@ let library = [
     url: "haydn/piano/collard.js",
     category: "piano",
     title: "Piano Sonata / Collard"
+  },
+  {
+    composer: "Mozart",
+    url: "mozart/symphony/marriner.js",
+    category: "symphony",
+    title: "Symphony / Marriner"
   }
 ];
