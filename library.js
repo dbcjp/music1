@@ -178,5 +178,11 @@ let library = [
     url: "ravel/sheherazade.js",
     category: "song",
     title: "Song / Sheherazade"
+  },
+  {
+    composer: "Haydn",
+    url: "haydn/piano/collard.js",
+    category: "piano",
+    title: "Piano / Haydn"
   }
 ];
