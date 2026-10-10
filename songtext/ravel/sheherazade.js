@@ -1,3 +1,5 @@
+textUrl="https://dbcjp.github.io/music1/songtext/ravel/cheherazade.js";
+
 let textArray=[
 {
 composer:"Ravel, Maurice",
