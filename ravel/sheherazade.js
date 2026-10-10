@@ -1,3 +1,5 @@
+textUrl = "ravel/sheherazade.js";
+
 addData(
 "rJa6KVRDNMs,MmjY3Lxe_oE,93_QO0J96II",
 "*Shéhérazade シェエラザード|1 Asia アジア,@M41-1/2 La Flâte Enchantée 魔法の笛,@M41-2/3 L'Indifferent つれない人,@M41-3",
