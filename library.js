@@ -178,7 +178,7 @@ let library = [
     url: "ravel/sheherazade.js",
     category: "song",
     title: "Song / Sheherazade",
-    textUrl: "ravel/sheherazade.js",
+    textUrl: "ravel/sheherazade.js"
   },
   {
     composer: "Haydn",
