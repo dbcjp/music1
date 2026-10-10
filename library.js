@@ -110,19 +110,19 @@ let library = [
   {
     composer: "Bach (J.S.)",
     url: "bach/keyboard/gould.js",
-    category: "keyboard",
+    category: ["keyboard","piano"],
     title: "Keyboard / Gould"
   },
   {
     composer: "Bach (J.S.)",
     url: "bach/keyboard/gilbert.js",
-    category: "keyboard",
+    category: ["keyboard","harpsichord"],
     title: "Keyboard / Gilbert"
   },
   {
     composer: "Bach (J.S.)",
     url: "bach/keyboard/schiff.js",
-    category: "keyboard",
+    category: ["keyboard","piano"],
     title: "Keyboard / Schiff"
   },
   {
@@ -158,7 +158,7 @@ let library = [
   {
     composer: "Mozart",
     url: "mozart/violinsonata_edition8.js",
-    category: "chamber",
+    category: ["chamber","violin"],
     title: "Violin / Violin Sonatas Edition 8"
   },
   {
@@ -177,7 +177,8 @@ let library = [
     composer: "Ravel",
     url: "ravel/sheherazade.js",
     category: "song",
-    title: "Song / Sheherazade"
+    title: "Song / Sheherazade",
+    textUrl: "ravel/sheherazade.js",
   },
   {
     composer: "Haydn",
