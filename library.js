@@ -183,6 +183,6 @@ let library = [
     composer: "Haydn",
     url: "haydn/piano/collard.js",
     category: "piano",
-    title: "Piano / Haydn"
+    title: "Piano Sonata / Collard"
   }
 ];
