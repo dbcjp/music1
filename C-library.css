@@ -83,3 +83,32 @@ button:active{
   margin-top: 5px;
   aspect-ratio:16/9;
 }
+
+table.lyrics{
+ width:100%;
+ /*border-collapse:collapse;*/
+ border:none;
+ table-layout:fixed;
+ margin-bottom:18px;
+}
+
+table.lyrics td{
+ /*border:1px solid #999;*/
+ border:none;
+ padding:4px;
+ vertical-align:top;
+ line-height:1.6;
+}
+
+table.lyrics td:first-child{
+ width:50%;
+}
+
+table.lyrics td:last-child{
+ width:50%;
+}
+
+.space td{
+  height:20px;
+  /*border:none;*/
+}
