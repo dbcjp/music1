@@ -158,7 +158,7 @@ let library = [
   {
     composer: "Mozart",
     url: "mozart/violinsonata_edition8.js",
-    category: ["chamber"],
+    category: ["chamber","violin"],
     title: "Violin / Violin Sonatas Edition 8"
   },
   {
