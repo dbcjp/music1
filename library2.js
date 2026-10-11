@@ -151,7 +151,7 @@ let library = [
   },
   {
     composer: "Mozart",
-    url: "mozart/pianosonata.js",
+    url: "mozart/piano/pianosonata.js",
     category: ["piano"],
     title: "Piano / Piano Sonatas"
   },
