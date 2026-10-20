@@ -4,3 +4,9 @@ addData(
 "Graham Johnson (piano) The Complete Songs 1",
 "Johnson, Graham (piano) The Complete Songs 1"
 );
+addData(
+"67Mrh6Ie4M4,j0c4h937J9E,EUrze_nM2Vg,4kWRDs5VJ7Q,8lyWGj9Tufk,WQvWLv5ePNE,oZ9c5NDeAUk,VQiItpgbckc,qyWh3UBY2Lc,uCe74Tbq56g,sGyHQIy5ymE,91st9Pi6X_I,zI8H9yUMEjE,llfiFsiU3os,BrcikclEQZI,lgU75diJ4Vo,_Evf12N_gG0,hrVsgIpTvC0,zjmkcd1ltr4,_YF0A7nAjPg,Hwemkh7658U,2G_4Cy27btY,AjWF7Ziijpg,xEcCCfYXbhM,D3HmMhhPAmo,TAk1GCzm51Q,z7U2ON7cnlg,RWPc5kNWfxE",
+"*5月 Mai Op. 1 No. 2,@Op1-2/*この世のすべての魂 Puisqu\'ici-bas toute âme Op. 10 No. 1,@Op10-1/*ある僧院の廃墟で Dans les ruines d\'une abbaye Op. 2 No. 1,@Op2-1/*リディア Lydia Op. 4 No. 2,@Op4-2/*君なくて L\'absent Op. 5 No. 3,@Op5-3/*秋の歌 Chant d\'automne Op. 5 No. 1,@Op5-1/*悲しみ Tristesse Op. 6 No. 2,@Op6-2/*夢のあとで Après un rêve Op. 7 No. 1,@Op7-1/*旅人 Le voyageur Op. 18 No. 2,@Op18-2/*ただひとり！ Sérénade toscane Op. 3 No. 2,@Op3-2/*秋 Automne Op. 18 No. 3,@Op18-3/*歌を教える妖精 La fée aux chansons Op. 27 No. 2,@Op27-2/*降誕祭 Noël Op. 43 No. 1,@Op43-1/*月の光 Clair de lune Op. 46 No. 2,@Op46-2/*憂鬱 Spleen Op. 51 No. 3,@Op51-3/*生まれ給うた 聖なる御子が Anonymous: Il est né, le divin enfant,@Opx_il_est/*祈りに En prière,@Opx_en_priere/*牢獄 Prison Op. 83 No. 1,@Op83-1/*9月の森で Dans la forêt de septembre Op. 85 No. 1,@Op85-1/*歌 Chanson Op. 94,@Op94/*歌曲集《閉じられた庭》 Le jardin clos Op. 106|No. 1, Exaucement,@Op106-1/No. 2, Quand tu plonges tes yeux dans mes yeux,@Op106-2/No. 3, La messagère,@Op106-3/No. 4, Je me poserai sur ton cœur,@Op106-4/No. 5, Dans la nymphée,@Op106-5/No. 6, Dans la pénombre,@Op106-6/No. 7, Il m\'est cher, Amour, le bandeau,@Op106-7/No. 8, Inscription sur le sable,@Op106-8",
+"Graham Johnson (piano) The Complete Songs 2",
+"Johnson, Graham (piano) The Complete Songs 2"
+);
