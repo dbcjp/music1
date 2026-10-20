@@ -191,5 +191,11 @@ let library = [
     url: "mozart/symphony/marriner.js",
     category: ["symphony"],
     title: "Symphony / Marriner"
+  },
+  {
+    composer: "Faure",
+    url: "faure/song/johnson.js",
+    category: ["song"],
+    title: "Faure / Song"
   }
 ];
