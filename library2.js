@@ -193,6 +193,12 @@ let library = [
     title: "Symphony / Marriner"
   },
   {
+    composer: "Mussorgsky",
+    url: "mussorgsky/piano.js",
+    category: ["piano"],
+    title: "Piano / Baglini"
+  },
+  {
     composer: "Faure",
     url: "faure/song/johnson.js",
     category: ["song"],
